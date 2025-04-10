@@ -58,6 +58,7 @@ Welcome to my GitHub profile! I'm a passionate and curious developer who enjoys 
 ## 🤝 Let's Connect!
 
 - 📧 [Email me](mailto:ht3rawa6e@mozmail.com) – I'm always happy to collaborate or chat tech!
+- 🐙 [GitHub: Unusualralph](https://github.com/Unusualralph)
 
 ---
 
