@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate and curious developer who enjoys 
 | Project | Description |
 |--------|-------------|
 | 📍 **KR-AID** | A location-aware app to find the nearest medical facilities based on your issue *(in development)* |
-| 🐍 **AstroSlither** | A fun twist on the classic Snake game*(Not fully developed)* |
+| 🐍 **AstroSlither** | A fun twist on the classic Snake game *(Not fully developed)* |
 | 🔐 **Password Manager** | Simple and secure mobile app for managing your passwords |
 
 ---
