@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate and curious developer who enjoys 
 
 ## 🚀 Tech Stack & Tools
 
-**Languages**  
+**Languages** 
 
  Python – scripting, automation, data analysis, web (Flask, Django)  
  Java – OOP, backend systems, Android development  
