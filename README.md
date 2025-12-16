@@ -1,82 +1,60 @@
-# 👋 Hi there, I'm **Ralph**!
+# Ralph R. - Software Developer & Systems Analyst
 
-Welcome to my GitHub profile! I'm a passionate and curious developer who enjoys crafting robust, efficient, and user-friendly applications. I thrive on learning new technologies and solving real-world problems through code.
+## 🎯 Profile Summary
 
----
-
-## 🚀 Tech Stack & Tools
-
-**Languages** 
-
- Python – scripting, automation, data analysis, web (Flask, Django)  
- Java – OOP, backend systems, Android development  
- C – low-level programming, algorithms, data structures  
- C#
- c++
- G(golang)
- Rust
- TypeScript – modern frontend (React, Angular)
- php
- javascript
- html
- css
-
-
- ---
-**Tools & Platforms**  
-
- Android Studio (Java/Kotlin)  
- Linux (Mint)  
- Git & GitHub  
- PostgreSQL
- mysql
- mongoDB
-
----
-## 📱 Android Projects
-
-| Project | Description |
-|--------|-------------|
-|  **KR-AID** | A location-aware app to find the nearest medical facilities based on your issue *(in development)* |
-|  **AstroSlither** | A fun twist on the classic Snake game *(Not fully developed)* |
-|  **Password Manager** | Simple and secure mobile app for managing your passwords |
+Experienced and versatile Software Developer with a strong foundation in **backend systems, mobile development, and data analysis**. Proven ability to deliver robust, efficient, and user-friendly applications by thriving on technical challenges and continuous learning across diverse technology stacks. Seeking opportunities to apply analytical skills to solve complex business problems.
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Core Competencies & Technical Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rr-ralefaso&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+A comprehensive skill set enabling contributions across the full development lifecycle:
 
----
-
-## 🐍 Python Projects
-
--  **KR-AID** – Backend services powering the mobile app  
--  **WebScraper** – A custom scraping tool integrated into KR-AID
-
----
-
-## ☕ Java / C Projects
-
--  **Password Manager** – A Java desktop app for secure password storage
+| Category | Key Languages & Frameworks | Platforms, Tools & Databases |
+| :--- | :--- | :--- |
+| **Backend / Systems** | **Python** (Flask, Django), **Java** (OOP), Go (Golang), C#, C, C++, Rust | Git, GitHub, Linux Environments (Mint) |
+| **Mobile Development** | Java, Kotlin | Android Studio |
+| **Frontend / Web** | **TypeScript**, JavaScript, React, HTML5, CSS3, PHP | |
+| **Data Management** | SQL (PostgreSQL, MySQL), NoSQL (MongoDB) | Data Analysis, Web Scraping |
+| **Low-Level / Foundations** | C, Data Structures, Algorithms | |
 
 ---
 
-## 🌐 Web Projects (TypeScript)
+### 💼 Featured Projects & Applications
 
--  **Study Timetable Builder** – A sleek React + TypeScript app to plan and track your study schedule
--  **RU-COnsulting** - consultation application that allows scheduling for lecturers and students
+Highlighting key development experience across various functional domains:
+
+#### I. Enterprise & Mobile Solutions
+
+| Project Title | Technology Focus | Deliverable / Status |
+| :--- | :--- | :--- |
+| **KR-AID** | Python Backend, Java/Kotlin Mobile | Location-aware medical facility finder application. Currently in late-stage development. |
+| **RU-Consulting** | TypeScript, React | Consultation scheduling application for academic institutions. |
+| **Password Manager** | Java (Desktop), Mobile Implementation | Secure, cross-platform application for critical credential management. |
+
+#### II. Academic & Utility Development
+
+| Project Title | Description | Key Technologies |
+| :--- | :--- | :--- |
+| **Study Timetable Builder** | A planning application designed to optimize and track academic study schedules. | React, TypeScript |
+| **WebScraper Utility** | Custom tool integrated into backend services for efficient data acquisition. | Python |
+| **AstroSlither** | Conceptual mobile game designed to demonstrate proficiency in game logic and mobile state management. | Java/Kotlin |
 
 ---
 
-## 🤝 Let's Connect!
+### 📈 Professional Metrics
 
-- 📧 [Email me](mailto:rrothang@gmail.com) – I'm always happy to collaborate or chat tech!
-- 🐙 [GitHub: Unusualralph](https://github.com/Unusualralph)
+Demonstrating commitment to version control and continuous code contribution:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rr-ralefaso&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=buefy&border_radius=10)](https://github.com/rr-ralefaso)
+
+*The **Buefy** theme is used for a cleaner, less colorful, and more subdued aesthetic.*
 
 ---
 
-## ✨ Thanks for Visiting!
+### 📞 Contact & Engagement
 
-Feel free to explore my repositories and don’t forget to ⭐ the ones you like!  
-Let’s build something awesome together 🚀
+I welcome professional inquiries, collaboration opportunities, and discussions on complex systems design.
+
+* **Email:** [rrothang@gmail.com](mailto:rrothang@gmail.com)
+* **GitHub (Primary):** [Unusualralph](https://github.com/Unusualralph)
