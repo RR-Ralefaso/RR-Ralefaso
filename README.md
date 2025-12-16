@@ -7,26 +7,39 @@ Welcome to my GitHub profile! I'm a passionate and curious developer who enjoys 
 ## 🚀 Tech Stack & Tools
 
 **Languages**  
-🟨 Python – scripting, automation, data analysis, web (Flask, Django)  
-🟦 Java – OOP, backend systems, Android development  
-🟧 C – low-level programming, algorithms, data structures  
-🟪 TypeScript – modern frontend (React, Angular)
 
+ Python – scripting, automation, data analysis, web (Flask, Django)  
+ Java – OOP, backend systems, Android development  
+ C – low-level programming, algorithms, data structures  
+ C#
+ c++
+ G(golang)
+ Rust
+ TypeScript – modern frontend (React, Angular)
+ php
+ javascript
+ html
+ css
+
+
+ ---
 **Tools & Platforms**  
-🧰 Android Studio (Java/Kotlin)  
-🖥️ Linux (Mint)  
-🗃️ Git & GitHub  
-🌐 PostgreSQL
+
+ Android Studio (Java/Kotlin)  
+ Linux (Mint)  
+ Git & GitHub  
+ PostgreSQL
+ mysql
+ mongoDB
 
 ---
-
 ## 📱 Android Projects
 
 | Project | Description |
 |--------|-------------|
-| 📍 **KR-AID** | A location-aware app to find the nearest medical facilities based on your issue *(in development)* |
-| 🐍 **AstroSlither** | A fun twist on the classic Snake game *(Not fully developed)* |
-| 🔐 **Password Manager** | Simple and secure mobile app for managing your passwords |
+|  **KR-AID** | A location-aware app to find the nearest medical facilities based on your issue *(in development)* |
+|  **AstroSlither** | A fun twist on the classic Snake game *(Not fully developed)* |
+|  **Password Manager** | Simple and secure mobile app for managing your passwords |
 
 ---
 
@@ -38,20 +51,21 @@ Welcome to my GitHub profile! I'm a passionate and curious developer who enjoys 
 
 ## 🐍 Python Projects
 
-- ⚙️ **KR-AID** – Backend services powering the mobile app  
-- 🕸️ **WebScraper** – A custom scraping tool integrated into KR-AID
+-  **KR-AID** – Backend services powering the mobile app  
+-  **WebScraper** – A custom scraping tool integrated into KR-AID
 
 ---
 
 ## ☕ Java / C Projects
 
-- 🔐 **Password Manager** – A Java desktop app for secure password storage
+-  **Password Manager** – A Java desktop app for secure password storage
 
 ---
 
 ## 🌐 Web Projects (TypeScript)
 
-- 📅 **Study Timetable Builder** – A sleek React + TypeScript app to plan and track your study schedule
+-  **Study Timetable Builder** – A sleek React + TypeScript app to plan and track your study schedule
+-  **RU-COnsulting** - consultation application that allows scheduling for lecturers and students
 
 ---
 
