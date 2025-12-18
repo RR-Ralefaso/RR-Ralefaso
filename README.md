@@ -48,7 +48,7 @@ Demonstrating commitment to version control and continuous code contribution:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rr-ralefaso&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=buefy&border_radius=10)](https://github.com/rr-ralefaso)
 
-*The **Buefy** theme is used for a cleaner, less colorful, and more subdued aesthetic.*
+
 
 ---
 
