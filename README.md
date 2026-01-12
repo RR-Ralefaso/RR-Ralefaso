@@ -56,5 +56,5 @@ Demonstrating commitment to version control and continuous code contribution:
 
 I welcome professional inquiries, collaboration opportunities, and discussions on complex systems design.
 
-* **Email:** [rrothang@gmail.com](mailto:rrothang@gmail.com)
+* **Email:** [rrralefaso@outlook.com](mailto:rrralefaso@outlook.com)
 * **GitHub (other account):** [Unusualralph](https://github.com/Unusualralph)
