@@ -12,7 +12,7 @@ A comprehensive skill set enabling contributions across the full development lif
 
 | Category | Key Languages & Frameworks | Platforms, Tools & Databases |
 | :--- | :--- | :--- |
-| **Backend / Systems** | **Python** (Flask, Django), **Java** (OOP), Go (Golang), C#, C, C++, Rust | Git, GitHub, Linux Environments (Mint) |
+| **Backend / Systems** | **Python** (Flask, Django), **Java** , Go (Golang), **C#, C, C++**, Rust | Git, GitHub, Linux Environments (Mint) |
 | **Mobile Development** | Java, Kotlin | Android Studio |
 | **Frontend / Web** | **TypeScript**, JavaScript, React, HTML5, CSS3, PHP | |
 | **Data Management** | SQL (PostgreSQL, MySQL), NoSQL (MongoDB) | Data Analysis, Web Scraping |
