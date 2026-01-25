@@ -4,6 +4,8 @@
 
 Experienced and versatile Software Developer with a strong foundation in **backend systems, mobile development, and data analysis**. Proven ability to deliver robust, efficient, and user-friendly applications by thriving on technical challenges and continuous learning across diverse technology stacks. Seeking opportunities to apply analytical skills to solve complex business problems.
 
+**ASPIRING RESEARCHER**
+
 ---
 
 ### ⚙️ Core Competencies & Technical Stack
@@ -50,6 +52,7 @@ Highlighting key development experience across various functional domains:
 Demonstrating commitment to version control and continuous code contribution:
 
 [![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=rr-ralefaso&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=buefy&border_radius=10)](https://github.com/rr-ralefaso)
+
 
 
 ---
