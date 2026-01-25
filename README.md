@@ -4,7 +4,7 @@
 
 Experienced and versatile Software Developer with a strong foundation in **backend systems, mobile development, and data analysis**. Proven ability to deliver robust, efficient, and user-friendly applications by thriving on technical challenges and continuous learning across diverse technology stacks. Seeking opportunities to apply analytical skills to solve complex business problems.
 
-**ASPIRING RESEARCHER**
+**ASPIRING RESEARCHER** focused on Applied Mathematics and Computer Science(image processing,machine learning , LLM , parallel programming,mathematical modelling and Cyber Security
 
 ---
 
