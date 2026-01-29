@@ -27,11 +27,26 @@ The world of data and logic is my playground. I am particularly interested in:
 ### 🦦 Core Competencies & Technical Stack
 I contribute across the full development lifecycle using a wide range of tools:
 
-* **Backend / Systems:** Python (Flask, Django), Java, Go (Golang), C#, C, C++, and Rust ⚙️
-* **Mobile Development:** Building native experiences with Java and Kotlin 📱
-* **Frontend & Web:** Crafting interfaces with TypeScript, React, and PHP 🌐
-* **Data Management:** Mastering SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) 📊
-* **Foundations:** Deep knowledge of Data Structures, Algorithms, and Linux Environments (Mint) 🐧
+
+#### **Systems & Backend Engineering**
+* **Languages:** Python (Flask, Django), Java, Go, C#, C, C++, and Rust.
+* **Focus:** Scalable architecture, high-performance systems, and robust API development.
+
+
+#### **Mobile & Web Ecosystems**
+* **Mobile:** Architecting native Android experiences using **Java** and **Kotlin**.
+* **Frontend:** Crafting responsive, type-safe interfaces with **TypeScript** and **React**.
+* **Server-side:** Experienced in legacy and modern web scripting with **PHP**.
+
+
+#### **Data Architecture**
+* **Relational:** Advanced management of **PostgreSQL** and **MySQL**.
+* **NoSQL:** Implementing flexible, high-scale solutions with **MongoDB**.
+
+
+#### **Core Foundations**
+* **Computer Science:** Deep mastery of **Data Structures** and **Algorithms**.
+* **Environment:** Native proficiency in **Linux** environments (Mint) and CLI optimization.
 
 ---
 
@@ -43,10 +58,10 @@ I am committed to consistent contribution and open-source growth:
 ---
 
 ### 👓 Appendix
-I’m always open to professional inquiries, collaboration on complex systems, or discussions regarding research in Applied Mathematics.
+I’m always open to professional inquiries, collaboration or discussions.
 
 * **Email:** [rrralefaso@outlook.com](mailto:rrralefaso@outlook.com) 📧
-* **Secondary GitHub:** [Unusualralph](https://github.com/Unusualralph) 🐙
+
 
 ---
 <p align="center">
