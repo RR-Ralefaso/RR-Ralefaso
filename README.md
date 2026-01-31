@@ -53,7 +53,10 @@ I contribute across the full development lifecycle using a wide range of tools:
 ### 📈 Professional Metrics
 I am committed to consistent contribution and open-source growth:
 
-[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=rr-ralefaso&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4&border_radius=10)](https://github.com/rr-ralefaso)
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api?username=rr-ralefaso&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4&border_radius=10" alt="GitHub Stats" height="150" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=rr-ralefaso&layout=compact&count_private=true&hide_title=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4&border_radius=10" alt="Top Languages" height="150" />
+</p>
 
 ---
 
