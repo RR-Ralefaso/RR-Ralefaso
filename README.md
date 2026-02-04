@@ -19,7 +19,7 @@ Currently, I am an **ASPIRING RESEARCHER** 🧪 focused on the intersection of *
 The world of data and logic is my playground. I am particularly interested in:
 
 * **AI & Vision:** Image processing, Machine Learning, and Large Language Models (LLMs) 🤖
-* **Computational Science:** Parallel programming and Mathematical Modelling, functional programming 🧮
+* **Computational Science:** Parallel programming, functional programming and Mathematical Modelling 🧮
 * **Security:** Strengthening systems through Cyber Security research 🛡️
 
 ---
