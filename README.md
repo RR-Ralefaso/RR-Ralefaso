@@ -8,23 +8,23 @@
 
 <br/>
 
-### 🎯 Building the future through code and math
+###  Building the future through code and math
 I am an experienced and versatile **Software Developer & Systems Analyst** with a passion for backend systems, mobile development, and data analysis. I thrive on solving complex technical challenges and am constantly expanding my knowledge across diverse technology stacks.
 
 Currently, I am an **ASPIRING RESEARCHER** 🧪 focused on the intersection of **Applied Mathematics** and **Computer Science**.
 
 ---
 
-### 🍿 Areas of Interest & Research
+###  Areas of Interest & Research
 The world of data and logic is my playground. I am particularly interested in:
 
 * **AI & Vision:** Image processing, Machine Learning, and Large Language Models (LLMs) 🤖
 * **Computational Science:** Parallel programming, functional programming and Mathematical Modelling 🧮
-* **Security:** Strengthening systems through Cyber Security research 🛡️
+* **Security:** Strengthening systems through Cyber Security research 
 
 ---
 
-### 🦦 Core Competencies & Technical Stack
+###  Core Competencies & Technical Stack
 I contribute across the full development lifecycle using a wide range of tools:
 
 
@@ -50,7 +50,7 @@ I contribute across the full development lifecycle using a wide range of tools:
 
 ---
 
-### 📈 Professional Metrics
+###  Professional Metrics
 I am committed to consistent contribution and open-source growth:
 
 <p align="center">
@@ -62,7 +62,7 @@ I am committed to consistent contribution and open-source growth:
 ### 👓 Appendix
 I’m always open to professional inquiries, collaboration or discussions.
 
-* **Email:** [rrralefaso@outlook.com](mailto:rrralefaso@outlook.com) 📧
+* **Email:** [rrralefaso@outlook.com](mailto:rrralefaso@outlook.com) 
 
 
 ---
