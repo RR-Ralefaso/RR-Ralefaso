@@ -1,4 +1,5 @@
 # Hey, I'm RR-Ralefaso (polaris) 
+Views](https://views.igorkowalczyk.dev/api/badge/RR-Ralefaso)
 
 <div>
   <centre>
