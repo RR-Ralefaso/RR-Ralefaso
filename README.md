@@ -1,4 +1,4 @@
-# Hey, I'm RR-Ralefaso (polaris)
+# RR-Ralefaso (polaris)
 
 <div>
   <centre>
