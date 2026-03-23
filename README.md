@@ -11,15 +11,15 @@
 ###  Building the future through code and math
 I am an experienced and versatile **Software Developer & Systems Analyst** with a passion for backend systems, mobile development, and data analysis. I thrive on solving complex technical challenges and am constantly expanding my knowledge across diverse technology stacks.
 
-Currently, I am an **ASPIRING RESEARCHER** 🧪 focused on the intersection of **Applied Mathematics** and **Computer Science**.
+Currently, I am an **ASPIRING RESEARCHER** focused on the intersection of **Applied Mathematics** and **Computer Science**.
 
 ---
 
 ###  Areas of Interest & Research
 The world of data and logic is my playground. I am particularly interested in:
 
-* **AI & Vision:** Image processing, Machine Learning, and Large Language Models (LLMs) 🤖
-* **Computational Science:** Parallel programming, functional programming and Mathematical Modelling 🧮
+* **AI & Vision:** Image processing, Machine Learning, and Large Language Models (LLMs) 
+* **Computational Science:** Parallel programming, functional programming and Mathematical Modelling 
 * **Security:** Strengthening systems through Cyber Security research 
 
 ---
