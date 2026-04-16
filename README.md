@@ -9,13 +9,11 @@ Aspiring researcher in <b>Applied Mathematics</b> & <b>Computer Science</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=rr-ralefaso&show_icons=true&hide_title=true&hide=prs&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4&border_radius=10" height="140"/>
-</p>
-
-<p align="center">
 Contact: <a href="mailto:rrralefaso@outlook.com">rrralefaso@outlook.com</a>
 </p>
 
 <p align="center">
-  <i>"Seeking to solve complex business problems through analytical precision."</i>
+  <i>"Mathematics is a game played according to certain simple rules with meaningless marks on paper"</i>
+  -
+  <b>David Hilbert </b>
 </p>
