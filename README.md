@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Aspiring researcher in <b>Applied Mathematics</b> & <b>Computer Science</b>
+Aspiring researcher in<br> <b>Applied Mathematics</b> , <b>Physics</b> & <b>Computer Science</b>
 </p>
 
 <p align="center">
