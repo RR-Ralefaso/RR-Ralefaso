@@ -13,7 +13,7 @@ Contact: <a href="mailto:rrralefaso@outlook.com">rrralefaso@outlook.com</a>
 </p>
 
 <p align="center">
-  <i>"Mathematics is a game played according to certain simple rules with meaningless marks on paper"</i>
+  <i>"Mathematics is the music of reason."</i>
   -
-  <b>David Hilbert </b>
+  <b>James Joseph Sylvester  </b>
 </p>
