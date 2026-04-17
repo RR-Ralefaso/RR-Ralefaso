@@ -13,7 +13,7 @@ Contact: <a href="mailto:rrralefaso@outlook.com">rrralefaso@outlook.com</a>
 </p>
 
 <p align="center">
-  <i>"Mathematics is the music of reason."</i>
+  <i>"Physics is the universe's operating system."</i>
   -
-  <b>James Joseph Sylvester  </b>
+  <b>Steven R Garman</b>
 </p>
