@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-Aspiring researcher<br>
+<br>
+Aspiring researcher</br>
 </p>
 
 <p align="center">
