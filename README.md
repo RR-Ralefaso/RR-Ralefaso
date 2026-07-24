@@ -12,9 +12,6 @@ Aspiring researcher
 </br>
 </p>
 
-<p align="center">
-Contact: <a href="mailto:rrralefaso@outlook.com">rrralefaso@outlook.com</a>
-</p>
 
 <p align="center">
   <i>"Physics is the universe's operating system."</i>
