@@ -17,7 +17,6 @@
 Aspiring researcher
 </b>
 </br>
-computer science - mathematics - physics 
 </p>
 
 
