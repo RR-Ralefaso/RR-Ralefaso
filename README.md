@@ -1,5 +1,3 @@
-<h2 align="center">RR-Ralefaso (polaris)</h2>
-
 ```text       
  _____ _____ __    _____ _____ _____ _____ 
 |  _  |     |  |  |  _  | __  |     |   __|
